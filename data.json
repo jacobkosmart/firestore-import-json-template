@@ -1,0 +1,4011 @@
+{
+  "days": [
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    },
+    {
+      "day": 7,
+      "id": 7
+    },
+    {
+      "day": 8,
+      "id": 8
+    },
+    {
+      "day": 9,
+      "id": 9
+    }
+  ],
+  "words": [
+    {
+      "id": 2,
+      "day": 1,
+      "eng": "applicant",
+      "kor": "지원자, 신청자",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "day": 1,
+      "eng": "requirement",
+      "kor": "필요조건, 요건",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "day": 1,
+      "eng": "meet",
+      "kor": "(필요,요구 등을)만족시키다",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "day": 1,
+      "eng": "qualified",
+      "kor": "자격있는, 적격의",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "day": 1,
+      "eng": "candidate",
+      "kor": "후보자, 지원자",
+      "isDone": false
+    },
+    {
+      "id": 7,
+      "day": 1,
+      "eng": "confidence",
+      "kor": "확신, 자신, 신임",
+      "isDone": false
+    },
+    {
+      "id": 8,
+      "day": 1,
+      "eng": "highly",
+      "kor": "매우, 대단히",
+      "isDone": false
+    },
+    {
+      "id": 9,
+      "day": 1,
+      "eng": "professional",
+      "kor": "전문적인, 직업의, 전문가",
+      "isDone": false
+    },
+    {
+      "id": 10,
+      "day": 1,
+      "eng": "interview",
+      "kor": "면접, 면접을 보다",
+      "isDone": false
+    },
+    {
+      "id": 11,
+      "day": 1,
+      "eng": "hire",
+      "kor": "고용하다",
+      "isDone": false
+    },
+    {
+      "id": 12,
+      "day": 1,
+      "eng": "training",
+      "kor": "교육, 훈련",
+      "isDone": false
+    },
+    {
+      "id": 13,
+      "day": 1,
+      "eng": "reference",
+      "kor": "추천서, 참고",
+      "isDone": false
+    },
+    {
+      "id": 14,
+      "day": 1,
+      "eng": "position",
+      "kor": "일자리, 직책, 두다",
+      "isDone": false
+    },
+    {
+      "id": 15,
+      "day": 1,
+      "eng": "achievement",
+      "kor": "성취, 달성",
+      "isDone": false
+    },
+    {
+      "id": 16,
+      "day": 1,
+      "eng": "impressed",
+      "kor": "인상 깊게 생각하는, 감명을 받은",
+      "isDone": false
+    },
+    {
+      "id": 17,
+      "day": 1,
+      "eng": "excellent",
+      "kor": "훌륭한",
+      "isDone": false
+    },
+    {
+      "id": 18,
+      "day": 1,
+      "eng": "eligible",
+      "kor": "자격이 있는, 적격의",
+      "isDone": false
+    },
+    {
+      "id": 19,
+      "day": 1,
+      "eng": "identify",
+      "kor": "알아보다, 확인하다",
+      "isDone": false
+    },
+    {
+      "id": 20,
+      "day": 1,
+      "eng": "associate",
+      "kor": "관련시키다",
+      "isDone": false
+    },
+    {
+      "id": 21,
+      "day": 1,
+      "eng": "condition",
+      "kor": "조건",
+      "isDone": false
+    },
+    {
+      "id": 22,
+      "day": 1,
+      "eng": "employment",
+      "kor": "고용",
+      "isDone": false
+    },
+    {
+      "id": 23,
+      "day": 1,
+      "eng": "lack",
+      "kor": "~이 없다, 부족",
+      "isDone": false
+    },
+    {
+      "id": 24,
+      "day": 1,
+      "eng": "managerial",
+      "kor": "관리의",
+      "isDone": false
+    },
+    {
+      "id": 25,
+      "day": 1,
+      "eng": "diligent",
+      "kor": "성실한",
+      "isDone": false
+    },
+    {
+      "id": 26,
+      "day": 1,
+      "eng": "familiar",
+      "kor": "익숙한, 친숙한",
+      "isDone": false
+    },
+    {
+      "id": 27,
+      "day": 1,
+      "eng": "proficiency",
+      "kor": "숙달, 능숙",
+      "isDone": false
+    },
+    {
+      "id": 28,
+      "day": 1,
+      "eng": "prospective",
+      "kor": "장래의, 미래의",
+      "isDone": false
+    },
+    {
+      "id": 29,
+      "day": 1,
+      "eng": "appeal",
+      "kor": "관심을 끌다, 매력적이다",
+      "isDone": false
+    },
+    {
+      "id": 30,
+      "day": 1,
+      "eng": "specialize",
+      "kor": "~을 전공하다, 전문적으로 다루다",
+      "isDone": false
+    },
+    {
+      "id": 31,
+      "day": 1,
+      "eng": "apprehensive",
+      "kor": "걱정하는, 염려하는",
+      "isDone": false
+    },
+    {
+      "id": 32,
+      "day": 1,
+      "eng": "consultant",
+      "kor": "고문, 컨설턴트",
+      "isDone": false
+    },
+    {
+      "id": 33,
+      "day": 1,
+      "eng": "entitle",
+      "kor": "자격을 주다",
+      "isDone": false
+    },
+    {
+      "id": 34,
+      "day": 1,
+      "eng": "degree",
+      "kor": "학위",
+      "isDone": false
+    },
+    {
+      "id": 35,
+      "day": 1,
+      "eng": "payroll",
+      "kor": "임금대장, 금료명부",
+      "isDone": false
+    },
+    {
+      "id": 36,
+      "day": 1,
+      "eng": "recruit",
+      "kor": "(신입사원등을)모집하다",
+      "isDone": false
+    },
+    {
+      "id": 37,
+      "day": 1,
+      "eng": "certification",
+      "kor": "증명서, 증명",
+      "isDone": false
+    },
+    {
+      "id": 38,
+      "day": 1,
+      "eng": "occupation",
+      "kor": "직업",
+      "isDone": false
+    },
+    {
+      "id": 39,
+      "day": 1,
+      "eng": "wage",
+      "kor": "임금, 급료",
+      "isDone": false
+    },
+    {
+      "id": 41,
+      "day": 2,
+      "eng": "code",
+      "kor": "규범, 관례;암호",
+      "isDone": false
+    },
+    {
+      "id": 42,
+      "day": 2,
+      "eng": "concern",
+      "kor": "우려, 걱정, 문제, 일, ~을 걱정스럽게 하다; 영향을 미치다, 관련되다.",
+      "isDone": false
+    },
+    {
+      "id": 43,
+      "day": 2,
+      "eng": "policy",
+      "kor": "규정; 보험, 증권",
+      "isDone": false
+    },
+    {
+      "id": 44,
+      "day": 2,
+      "eng": "comply",
+      "kor": "준수하다, 따르다",
+      "isDone": false
+    },
+    {
+      "id": 45,
+      "day": 2,
+      "eng": "regulation",
+      "kor": "규정",
+      "isDone": false
+    },
+    {
+      "id": 46,
+      "day": 2,
+      "eng": "exception",
+      "kor": "예외",
+      "isDone": false
+    },
+    {
+      "id": 47,
+      "day": 2,
+      "eng": "adhere",
+      "kor": "지키다, 고수하다",
+      "isDone": false
+    },
+    {
+      "id": 48,
+      "day": 2,
+      "eng": "severely",
+      "kor": "엄격하게, 심하게",
+      "isDone": false
+    },
+    {
+      "id": 49,
+      "day": 2,
+      "eng": "refrain",
+      "kor": "자제하다, 삼가다",
+      "isDone": false
+    },
+    {
+      "id": 50,
+      "day": 2,
+      "eng": "permission",
+      "kor": "허락, 허가",
+      "isDone": false
+    },
+    {
+      "id": 51,
+      "day": 2,
+      "eng": "access",
+      "kor": "이용권한, 접근;통로, ~에 접근하다, 도달하다",
+      "isDone": false
+    },
+    {
+      "id": 52,
+      "day": 2,
+      "eng": "thoroughly",
+      "kor": "철저하게, 완전히, 대단히",
+      "isDone": false
+    },
+    {
+      "id": 53,
+      "day": 2,
+      "eng": "revise",
+      "kor": "(의견, 계획을)수정하다, 변경하다",
+      "isDone": false
+    },
+    {
+      "id": 54,
+      "day": 2,
+      "eng": "approach",
+      "kor": "접근법, 처리방법",
+      "isDone": false
+    },
+    {
+      "id": 55,
+      "day": 2,
+      "eng": "approval",
+      "kor": "승인, 인가",
+      "isDone": false
+    },
+    {
+      "id": 56,
+      "day": 2,
+      "eng": "form",
+      "kor": "종류, 유형, 양식",
+      "isDone": false
+    },
+    {
+      "id": 57,
+      "day": 2,
+      "eng": "immediately",
+      "kor": "즉시, 곧",
+      "isDone": false
+    },
+    {
+      "id": 58,
+      "day": 2,
+      "eng": "inspection",
+      "kor": "점검, 검사",
+      "isDone": false
+    },
+    {
+      "id": 59,
+      "day": 2,
+      "eng": "arrangement",
+      "kor": "준비, 마련, 주선",
+      "isDone": false
+    },
+    {
+      "id": 60,
+      "day": 2,
+      "eng": "procedure",
+      "kor": "절차",
+      "isDone": false
+    },
+    {
+      "id": 61,
+      "day": 2,
+      "eng": "negative",
+      "kor": "부정적인, 비관적인",
+      "isDone": false
+    },
+    {
+      "id": 62,
+      "day": 2,
+      "eng": "mandate",
+      "kor": "명령하다, 지시하다, 권한, 지시, 명령",
+      "isDone": false
+    },
+    {
+      "id": 63,
+      "day": 2,
+      "eng": "effect",
+      "kor": "(법률등의)효력, 효과, 영향, 결과로서 ~을 가져오다",
+      "isDone": false
+    },
+    {
+      "id": 64,
+      "day": 2,
+      "eng": "drastically",
+      "kor": "심하게, 과감하게, 철저하게",
+      "isDone": false
+    },
+    {
+      "id": 65,
+      "day": 2,
+      "eng": "according to",
+      "kor": "~에 따라",
+      "isDone": false
+    },
+    {
+      "id": 66,
+      "day": 2,
+      "eng": "enable",
+      "kor": "(무엇을)가능하게 하다",
+      "isDone": false
+    },
+    {
+      "id": 67,
+      "day": 2,
+      "eng": "standard",
+      "kor": "기준, 표준",
+      "isDone": false
+    },
+    {
+      "id": 68,
+      "day": 2,
+      "eng": "constant",
+      "kor": "지속적인, 끊임없이 계속하는",
+      "isDone": false
+    },
+    {
+      "id": 69,
+      "day": 2,
+      "eng": "act",
+      "kor": "법령, 결의서; 행위, 행동, 결정하다, 판결을 내리다, 행동하다",
+      "isDone": false
+    },
+    {
+      "id": 70,
+      "day": 2,
+      "eng": "compensation",
+      "kor": "보상금, 보상",
+      "isDone": false
+    },
+    {
+      "id": 71,
+      "day": 2,
+      "eng": "ban",
+      "kor": "금지, 금지하다",
+      "isDone": false
+    },
+    {
+      "id": 72,
+      "day": 2,
+      "eng": "obligation",
+      "kor": "의무, 책임",
+      "isDone": false
+    },
+    {
+      "id": 73,
+      "day": 2,
+      "eng": "authorize",
+      "kor": "~을 인가하다, 권한을 부여하다.",
+      "isDone": false
+    },
+    {
+      "id": 74,
+      "day": 2,
+      "eng": "prohibit",
+      "kor": "금지하다",
+      "isDone": false
+    },
+    {
+      "id": 75,
+      "day": 2,
+      "eng": "abolish",
+      "kor": "(제도, 법률등을)폐지하다",
+      "isDone": false
+    },
+    {
+      "id": 76,
+      "day": 2,
+      "eng": "enforce",
+      "kor": "(법률을)시행하다, 집행하다",
+      "isDone": false
+    },
+    {
+      "id": 77,
+      "day": 2,
+      "eng": "habit",
+      "kor": "습관, 버릇",
+      "isDone": false
+    },
+    {
+      "id": 78,
+      "day": 2,
+      "eng": "lagislation",
+      "kor": "법률, 법규",
+      "isDone": false
+    },
+    {
+      "id": 79,
+      "day": 2,
+      "eng": "restrict",
+      "kor": "한정하다, 제한하다",
+      "isDone": false
+    },
+    {
+      "id": 80,
+      "day": 3,
+      "eng": "accustomed",
+      "kor": "익숙한",
+      "isDone": false
+    },
+    {
+      "id": 81,
+      "day": 3,
+      "eng": "corporatiion",
+      "kor": "주식회사, 법인",
+      "isDone": false
+    },
+    {
+      "id": 82,
+      "day": 3,
+      "eng": "demanding",
+      "kor": "요구가 많은, 힘든",
+      "isDone": false
+    },
+    {
+      "id": 83,
+      "day": 3,
+      "eng": "colleague",
+      "kor": "동료",
+      "isDone": false
+    },
+    {
+      "id": 84,
+      "day": 3,
+      "eng": "division",
+      "kor": "부서",
+      "isDone": false
+    },
+    {
+      "id": 85,
+      "day": 3,
+      "eng": "request",
+      "kor": "요청, 요청하다",
+      "isDone": false
+    },
+    {
+      "id": 86,
+      "day": 3,
+      "eng": "efficiently",
+      "kor": "효율적으로",
+      "isDone": false
+    },
+    {
+      "id": 87,
+      "day": 3,
+      "eng": "manage",
+      "kor": "~을 경영하다; 가까스로 하다",
+      "isDone": false
+    },
+    {
+      "id": 88,
+      "day": 3,
+      "eng": "submit",
+      "kor": "제출하다",
+      "isDone": false
+    },
+    {
+      "id": 89,
+      "day": 3,
+      "eng": "directly",
+      "kor": "곧바로",
+      "isDone": false
+    },
+    {
+      "id": 90,
+      "day": 3,
+      "eng": "remind",
+      "kor": "~에게 상기시키다, 일깨우다",
+      "isDone": false
+    },
+    {
+      "id": 91,
+      "day": 3,
+      "eng": "instruct",
+      "kor": "지시하다, 가르치다",
+      "isDone": false
+    },
+    {
+      "id": 92,
+      "day": 3,
+      "eng": "deadline",
+      "kor": "마감일, 마감 시간",
+      "isDone": false
+    },
+    {
+      "id": 93,
+      "day": 3,
+      "eng": "sample",
+      "kor": "견본, 샘플, 표본\n시식하다, (견본으로 질을)시험하다",
+      "isDone": false
+    },
+    {
+      "id": 94,
+      "day": 3,
+      "eng": "notify",
+      "kor": "~에게 통지하다, 알리다",
+      "isDone": false
+    },
+    {
+      "id": 95,
+      "day": 3,
+      "eng": "perform",
+      "kor": "행하다, 실행하다",
+      "isDone": false
+    },
+    {
+      "id": 96,
+      "day": 3,
+      "eng": "monitor",
+      "kor": "감독하다, 감시하다, 실행하다",
+      "isDone": false
+    },
+    {
+      "id": 97,
+      "day": 3,
+      "eng": "deserve",
+      "kor": "~할 만하다, ~할 가치가 있다",
+      "isDone": false
+    },
+    {
+      "id": 98,
+      "day": 3,
+      "eng": "assignment",
+      "kor": "일, 임무, 과제",
+      "isDone": false
+    },
+    {
+      "id": 99,
+      "day": 3,
+      "eng": "entire",
+      "kor": "전체의",
+      "isDone": false
+    },
+    {
+      "id": 100,
+      "day": 3,
+      "eng": "release",
+      "kor": "발표하다, 공개하다, 출시, 발매",
+      "isDone": false
+    },
+    {
+      "id": 101,
+      "day": 3,
+      "eng": "extension",
+      "kor": "연장, 연기; (전화의)내선",
+      "isDone": false
+    },
+    {
+      "id": 102,
+      "day": 3,
+      "eng": "electronically",
+      "kor": "컴퓨터 통신망으로, 컴퓨터로",
+      "isDone": false
+    },
+    {
+      "id": 103,
+      "day": 3,
+      "eng": "attendance",
+      "kor": "출석, 출근",
+      "isDone": false
+    },
+    {
+      "id": 104,
+      "day": 3,
+      "eng": "absolutely",
+      "kor": "절대적으로, 완전히",
+      "isDone": false
+    },
+    {
+      "id": 105,
+      "day": 3,
+      "eng": "delegate",
+      "kor": "(권한등을)위임하다. 대표",
+      "isDone": false
+    },
+    {
+      "id": 106,
+      "day": 3,
+      "eng": "attentively",
+      "kor": "주의 깊게, 조심스럽게",
+      "isDone": false
+    },
+    {
+      "id": 107,
+      "day": 3,
+      "eng": "supervision",
+      "kor": "감독",
+      "isDone": false
+    },
+    {
+      "id": 108,
+      "day": 3,
+      "eng": "workshop",
+      "kor": "워크숍, 연수",
+      "isDone": false
+    },
+    {
+      "id": 109,
+      "day": 3,
+      "eng": "draw",
+      "kor": "끌다, 끌어당기다",
+      "isDone": false
+    },
+    {
+      "id": 110,
+      "day": 3,
+      "eng": "revision",
+      "kor": "수정, 개정",
+      "isDone": false
+    },
+    {
+      "id": 111,
+      "day": 3,
+      "eng": "reluctantly",
+      "kor": "마지못해, 꺼려하여",
+      "isDone": false
+    },
+    {
+      "id": 112,
+      "day": 3,
+      "eng": "acquaint",
+      "kor": "~에게 숙지시키다, 잘 알게 하다",
+      "isDone": false
+    },
+    {
+      "id": 113,
+      "day": 3,
+      "eng": "convey",
+      "kor": "(용건을)전달하다",
+      "isDone": false
+    },
+    {
+      "id": 114,
+      "day": 3,
+      "eng": "check",
+      "kor": "검사하다, 조사하다, 확인하다",
+      "isDone": false
+    },
+    {
+      "id": 115,
+      "day": 3,
+      "eng": "headquarters",
+      "kor": "본부",
+      "isDone": false
+    },
+    {
+      "id": 116,
+      "day": 3,
+      "eng": "file",
+      "kor": "(서류를)정리하다, 철하다;\n(서류, 신청, 고소 등을)정식으로 제기하다, 제출하다",
+      "isDone": false
+    },
+    {
+      "id": 117,
+      "day": 3,
+      "eng": "oversee",
+      "kor": "감독하다 (foresee예견하다, oversea해외의)",
+      "isDone": false
+    },
+    {
+      "id": 118,
+      "day": 3,
+      "eng": "involved",
+      "kor": "관여하는, 관계된, 연루된",
+      "isDone": false
+    },
+    {
+      "id": 119,
+      "day": 3,
+      "eng": "concentrate",
+      "kor": "집중하다, 집중시키다",
+      "isDone": false
+    },
+    {
+      "id": 120,
+      "day": 4,
+      "eng": "lax",
+      "kor": "(행동 등이)느슨한, 규율에 못 미치는",
+      "isDone": false
+    },
+    {
+      "id": 121,
+      "day": 4,
+      "eng": "procrastinate",
+      "kor": "미루다, 꾸물거리다",
+      "isDone": false
+    },
+    {
+      "id": 122,
+      "day": 4,
+      "eng": "combined",
+      "kor": "결합된, 합동의",
+      "isDone": false
+    },
+    {
+      "id": 123,
+      "day": 4,
+      "eng": "accomplish",
+      "kor": "성취하다",
+      "isDone": false
+    },
+    {
+      "id": 124,
+      "day": 4,
+      "eng": "voluntarily",
+      "kor": "자발적으로",
+      "isDone": false
+    },
+    {
+      "id": 125,
+      "day": 4,
+      "eng": "undertake",
+      "kor": "(일을)떠맡다",
+      "isDone": false
+    },
+    {
+      "id": 126,
+      "day": 4,
+      "eng": "assume",
+      "kor": "(증거는 없으나)사실이라고 생각하다;\n(책임,역할을)맡다",
+      "isDone": false
+    },
+    {
+      "id": 127,
+      "day": 4,
+      "eng": "occasionally",
+      "kor": "가끔, 때때로",
+      "isDone": false
+    },
+    {
+      "id": 128,
+      "day": 4,
+      "eng": "employee",
+      "kor": "직원, 고용인",
+      "isDone": false
+    },
+    {
+      "id": 129,
+      "day": 4,
+      "eng": "assist",
+      "kor": "돕다, 조력하다",
+      "isDone": false
+    },
+    {
+      "id": 130,
+      "day": 4,
+      "eng": "satisfied",
+      "kor": "만족하는, 만족스러워하는",
+      "isDone": false
+    },
+    {
+      "id": 131,
+      "day": 4,
+      "eng": "manner",
+      "kor": "방식, 태도",
+      "isDone": false
+    },
+    {
+      "id": 132,
+      "day": 4,
+      "eng": "responsible",
+      "kor": "책임이 있는, 책임져야 할",
+      "isDone": false
+    },
+    {
+      "id": 133,
+      "day": 4,
+      "eng": "conduct",
+      "kor": "(업무 등을)수행하다",
+      "isDone": false
+    },
+    {
+      "id": 134,
+      "day": 4,
+      "eng": "adjust",
+      "kor": "적응하다",
+      "isDone": false
+    },
+    {
+      "id": 135,
+      "day": 4,
+      "eng": "personnel",
+      "kor": "(집합적)직원, 인원; 인사과",
+      "isDone": false
+    },
+    {
+      "id": 136,
+      "day": 4,
+      "eng": "agree",
+      "kor": "동의하다",
+      "isDone": false
+    },
+    {
+      "id": 137,
+      "day": 4,
+      "eng": "supervise",
+      "kor": "감독하다, 지도하다",
+      "isDone": false
+    },
+    {
+      "id": 138,
+      "day": 4,
+      "eng": "coworker",
+      "kor": "동료, 협력자",
+      "isDone": false
+    },
+    {
+      "id": 139,
+      "day": 4,
+      "eng": "direct",
+      "kor": "~에게 길을 안내하다, 가르쳐 주다",
+      "isDone": false
+    },
+    {
+      "id": 140,
+      "day": 4,
+      "eng": "confidential",
+      "kor": "기밀의, 내밀한",
+      "isDone": false
+    },
+    {
+      "id": 141,
+      "day": 4,
+      "eng": "assign",
+      "kor": "배정하다, 할당하다",
+      "isDone": false
+    },
+    {
+      "id": 142,
+      "day": 4,
+      "eng": "leading",
+      "kor": "선도적인, 일류의, 가장 중요한, 선두적인",
+      "isDone": false
+    },
+    {
+      "id": 143,
+      "day": 4,
+      "eng": "formal",
+      "kor": "격식을 갖춘",
+      "isDone": false
+    },
+    {
+      "id": 144,
+      "day": 4,
+      "eng": "remove",
+      "kor": "해임하다, 제거하다",
+      "isDone": false
+    },
+    {
+      "id": 145,
+      "day": 4,
+      "eng": "collect",
+      "kor": "모으다",
+      "isDone": false
+    },
+    {
+      "id": 146,
+      "day": 4,
+      "eng": "coordinate",
+      "kor": "조정하다",
+      "isDone": false
+    },
+    {
+      "id": 147,
+      "day": 4,
+      "eng": "hardly",
+      "kor": "거의~하지않다",
+      "isDone": false
+    },
+    {
+      "id": 148,
+      "day": 4,
+      "eng": "abstract",
+      "kor": "추상적인, 막연한",
+      "isDone": false
+    },
+    {
+      "id": 149,
+      "day": 4,
+      "eng": "directory",
+      "kor": "주소록",
+      "isDone": false
+    },
+    {
+      "id": 150,
+      "day": 4,
+      "eng": "accountable",
+      "kor": "책임이 있는",
+      "isDone": false
+    },
+    {
+      "id": 151,
+      "day": 4,
+      "eng": "skillfully",
+      "kor": "능숙하게, 솜씨있게",
+      "isDone": false
+    },
+    {
+      "id": 152,
+      "day": 4,
+      "eng": "exclusive",
+      "kor": "독점적인, 배타적인",
+      "isDone": false
+    },
+    {
+      "id": 153,
+      "day": 4,
+      "eng": "intention",
+      "kor": "의지, 의향",
+      "isDone": false
+    },
+    {
+      "id": 154,
+      "day": 4,
+      "eng": "transform",
+      "kor": "바꾸다, 변모시키다",
+      "isDone": false
+    },
+    {
+      "id": 155,
+      "day": 4,
+      "eng": "respectful",
+      "kor": "정중한, 존중하는",
+      "isDone": false
+    },
+    {
+      "id": 156,
+      "day": 4,
+      "eng": "duplicate",
+      "kor": "사본",
+      "isDone": false
+    },
+    {
+      "id": 157,
+      "day": 4,
+      "eng": "contrary",
+      "kor": "반대",
+      "isDone": false
+    },
+    {
+      "id": 158,
+      "day": 4,
+      "eng": "disturbing",
+      "kor": "충격적인, 불안감을 주는, 방해하는",
+      "isDone": false
+    },
+    {
+      "id": 159,
+      "day": 4,
+      "eng": "engage",
+      "kor": "관여하다, 종사하다",
+      "isDone": false
+    },
+    {
+      "id": 160,
+      "day": 4,
+      "eng": "foster",
+      "kor": "촉진하다, 육성하다",
+      "isDone": false
+    },
+    {
+      "id": 161,
+      "day": 4,
+      "eng": "neutrality",
+      "kor": "중립성, 중립",
+      "isDone": false
+    },
+    {
+      "id": 162,
+      "day": 4,
+      "eng": "widely",
+      "kor": "널리",
+      "isDone": false
+    },
+    {
+      "id": 163,
+      "day": 5,
+      "eng": "sophisticated",
+      "kor": "(기계가)정교한, 복잡한; 세련된",
+      "isDone": false
+    },
+    {
+      "id": 164,
+      "day": 5,
+      "eng": "timely",
+      "kor": "시기적절한, 때를 맞춘",
+      "isDone": false
+    },
+    {
+      "id": 165,
+      "day": 5,
+      "eng": "realistically",
+      "kor": "현실적으로",
+      "isDone": false
+    },
+    {
+      "id": 166,
+      "day": 5,
+      "eng": "promptly",
+      "kor": "즉시; 정각에",
+      "isDone": false
+    },
+    {
+      "id": 167,
+      "day": 5,
+      "eng": "accessible",
+      "kor": "출입할 수 있는; 이용할 수 있는",
+      "isDone": false
+    },
+    {
+      "id": 168,
+      "day": 5,
+      "eng": "implement",
+      "kor": "실시하다, 실행하다",
+      "isDone": false
+    },
+    {
+      "id": 169,
+      "day": 5,
+      "eng": "feedback",
+      "kor": "의견, 반응",
+      "isDone": false
+    },
+    {
+      "id": 170,
+      "day": 5,
+      "eng": "outstanding",
+      "kor": "우수한; (부채 등이)미지불된",
+      "isDone": false
+    },
+    {
+      "id": 171,
+      "day": 5,
+      "eng": "inform",
+      "kor": "~에게 알리다",
+      "isDone": false
+    },
+    {
+      "id": 172,
+      "day": 5,
+      "eng": "replacement",
+      "kor": "교체, 후임자",
+      "isDone": false
+    },
+    {
+      "id": 173,
+      "day": 5,
+      "eng": "announcement",
+      "kor": "공고, 발표",
+      "isDone": false
+    },
+    {
+      "id": 174,
+      "day": 5,
+      "eng": "department",
+      "kor": "(조직, 기구의)부서",
+      "isDone": false
+    },
+    {
+      "id": 175,
+      "day": 5,
+      "eng": "permanently",
+      "kor": "영구적으로, 불변으로",
+      "isDone": false
+    },
+    {
+      "id": 176,
+      "day": 5,
+      "eng": "fulfill",
+      "kor": "(조건을)만족시키다, (약속, 의무등을)지키다, 이행하다",
+      "isDone": false
+    },
+    {
+      "id": 177,
+      "day": 5,
+      "eng": "outline",
+      "kor": "개요, 설명하다, 약술하다",
+      "isDone": false
+    },
+    {
+      "id": 178,
+      "day": 5,
+      "eng": "explain",
+      "kor": "설명하다",
+      "isDone": false
+    },
+    {
+      "id": 179,
+      "day": 5,
+      "eng": "contain",
+      "kor": "포함하다",
+      "isDone": false
+    },
+    {
+      "id": 180,
+      "day": 5,
+      "eng": "compile",
+      "kor": "(자료 등을)편집하다; 모으다",
+      "isDone": false
+    },
+    {
+      "id": 181,
+      "day": 5,
+      "eng": "subsequent",
+      "kor": "차후의, 그 다음의",
+      "isDone": false
+    },
+    {
+      "id": 182,
+      "day": 5,
+      "eng": "overview",
+      "kor": "개요, 개관",
+      "isDone": false
+    },
+    {
+      "id": 183,
+      "day": 5,
+      "eng": "provider",
+      "kor": "공급자, 제공자",
+      "isDone": false
+    },
+    {
+      "id": 184,
+      "day": 5,
+      "eng": "matter",
+      "kor": "문제, 일",
+      "isDone": false
+    },
+    {
+      "id": 185,
+      "day": 5,
+      "eng": "expertise",
+      "kor": "전문지식, 전문기술",
+      "isDone": false
+    },
+    {
+      "id": 186,
+      "day": 5,
+      "eng": "demonstrate",
+      "kor": "증명하다; (모형, 실험등으로)설명하다",
+      "isDone": false
+    },
+    {
+      "id": 187,
+      "day": 5,
+      "eng": "remainder",
+      "kor": "나머지",
+      "isDone": false
+    },
+    {
+      "id": 188,
+      "day": 5,
+      "eng": "essential",
+      "kor": "필수적인, 극히 중요한, 본질적인",
+      "isDone": false
+    },
+    {
+      "id": 189,
+      "day": 5,
+      "eng": "divide",
+      "kor": "분배하다, 나누다",
+      "isDone": false
+    },
+    {
+      "id": 190,
+      "day": 5,
+      "eng": "major",
+      "kor": "주요한, 중대한",
+      "isDone": false
+    },
+    {
+      "id": 191,
+      "day": 5,
+      "eng": "compliance",
+      "kor": "(명령, 법규에의)준수",
+      "isDone": false
+    },
+    {
+      "id": 192,
+      "day": 5,
+      "eng": "clarify",
+      "kor": "명확하게 하다",
+      "isDone": false
+    },
+    {
+      "id": 193,
+      "day": 5,
+      "eng": "face",
+      "kor": "(문제 등에)직면하다; 향하다, 마주보다",
+      "isDone": false
+    },
+    {
+      "id": 194,
+      "day": 5,
+      "eng": "follow",
+      "kor": "~을 따라가다; 주시하다; (분명히)이해하다",
+      "isDone": false
+    },
+    {
+      "id": 195,
+      "day": 5,
+      "eng": "aspect",
+      "kor": "관점, 국면",
+      "isDone": false
+    },
+    {
+      "id": 196,
+      "day": 5,
+      "eng": "apparently",
+      "kor": "보기에 ~한 듯한, 외관상으로는",
+      "isDone": false
+    },
+    {
+      "id": 197,
+      "day": 5,
+      "eng": "aware",
+      "kor": "알고 있는, 인식하고 있는",
+      "isDone": false
+    },
+    {
+      "id": 198,
+      "day": 5,
+      "eng": "extended",
+      "kor": "(기간 등을)연장한, 장기간에 걸친",
+      "isDone": false
+    },
+    {
+      "id": 199,
+      "day": 5,
+      "eng": "accidentally",
+      "kor": "뜻하지 않게, 우연히",
+      "isDone": false
+    },
+    {
+      "id": 200,
+      "day": 5,
+      "eng": "advisable",
+      "kor": "바람직한, 합당한",
+      "isDone": false
+    },
+    {
+      "id": 201,
+      "day": 5,
+      "eng": "concerned",
+      "kor": "염려하는, 걱정하는; 관련된",
+      "isDone": false
+    },
+    {
+      "id": 202,
+      "day": 5,
+      "eng": "speak",
+      "kor": "이야기 하다",
+      "isDone": false
+    },
+    {
+      "id": 203,
+      "day": 6,
+      "eng": "collection",
+      "kor": "소장품, 수집물; 징수, 수금",
+      "isDone": false
+    },
+    {
+      "id": 204,
+      "day": 6,
+      "eng": "exhibition",
+      "kor": "전시회",
+      "isDone": false
+    },
+    {
+      "id": 205,
+      "day": 6,
+      "eng": "celebrity",
+      "kor": "유명인사, 명사",
+      "isDone": false
+    },
+    {
+      "id": 206,
+      "day": 6,
+      "eng": "live",
+      "kor": "(라디오, TV가)생방송인",
+      "isDone": false
+    },
+    {
+      "id": 207,
+      "day": 6,
+      "eng": "improvise",
+      "kor": "(연주, 연설 등을)즉흥적으로 하다, 즉석에서 만들다.",
+      "isDone": false
+    },
+    {
+      "id": 208,
+      "day": 6,
+      "eng": "popular",
+      "kor": "인기있는",
+      "isDone": false
+    },
+    {
+      "id": 209,
+      "day": 6,
+      "eng": "donation",
+      "kor": "기증, 기부",
+      "isDone": false
+    },
+    {
+      "id": 210,
+      "day": 6,
+      "eng": "alumni",
+      "kor": "동창생들, 졸업생들",
+      "isDone": false
+    },
+    {
+      "id": 211,
+      "day": 6,
+      "eng": "present",
+      "kor": "제시하다, 현재의, 참석한",
+      "isDone": false
+    },
+    {
+      "id": 212,
+      "day": 6,
+      "eng": "admission",
+      "kor": "입장",
+      "isDone": false
+    },
+    {
+      "id": 213,
+      "day": 6,
+      "eng": "banquet",
+      "kor": "연회, 만찬",
+      "isDone": false
+    },
+    {
+      "id": 214,
+      "day": 6,
+      "eng": "anniversary",
+      "kor": "기념일",
+      "isDone": false
+    },
+    {
+      "id": 215,
+      "day": 6,
+      "eng": "required",
+      "kor": "필수의, 의무적인",
+      "isDone": false
+    },
+    {
+      "id": 216,
+      "day": 6,
+      "eng": "succeed",
+      "kor": "성공하다, 뒤를 잇다",
+      "isDone": false
+    },
+    {
+      "id": 217,
+      "day": 6,
+      "eng": "rest",
+      "kor": "쉬다,휴식, 나머지",
+      "isDone": false
+    },
+    {
+      "id": 218,
+      "day": 6,
+      "eng": "fund-raising",
+      "kor": "모금",
+      "isDone": false
+    },
+    {
+      "id": 219,
+      "day": 6,
+      "eng": "resume",
+      "kor": "재개하다, 다시 시작하다",
+      "isDone": false
+    },
+    {
+      "id": 220,
+      "day": 6,
+      "eng": "issue",
+      "kor": "(출판물의)제 ~호; 문제, 쟁점",
+      "isDone": false
+    },
+    {
+      "id": 221,
+      "day": 6,
+      "eng": "subscription",
+      "kor": "(정기발행물의) 구독",
+      "isDone": false
+    },
+    {
+      "id": 222,
+      "day": 6,
+      "eng": "appear",
+      "kor": "나타나다, 출현하다",
+      "isDone": false
+    },
+    {
+      "id": 223,
+      "day": 6,
+      "eng": "accompany",
+      "kor": "동행하다, 동반하다",
+      "isDone": false
+    },
+    {
+      "id": 224,
+      "day": 6,
+      "eng": "edition",
+      "kor": "(간행물의)판",
+      "isDone": false
+    },
+    {
+      "id": 225,
+      "day": 6,
+      "eng": "specifically",
+      "kor": "명확하게, 분명히; 특히, 특별히",
+      "isDone": false
+    },
+    {
+      "id": 226,
+      "day": 6,
+      "eng": "anonymous",
+      "kor": "익명의, 이름을 모르는",
+      "isDone": false
+    },
+    {
+      "id": 227,
+      "day": 6,
+      "eng": "commit",
+      "kor": "헌신하다, 전념하다",
+      "isDone": false
+    },
+    {
+      "id": 228,
+      "day": 6,
+      "eng": "information",
+      "kor": "유익한, 정보를 주는",
+      "isDone": false
+    },
+    {
+      "id": 229,
+      "day": 6,
+      "eng": "audience",
+      "kor": "청중, 관중",
+      "isDone": false
+    },
+    {
+      "id": 230,
+      "day": 6,
+      "eng": "author",
+      "kor": "작가, 저자",
+      "isDone": false
+    },
+    {
+      "id": 231,
+      "day": 6,
+      "eng": "note",
+      "kor": "주목하다; 특별히 언급하다.",
+      "isDone": false
+    },
+    {
+      "id": 232,
+      "day": 6,
+      "eng": "antique",
+      "kor": "골동품",
+      "isDone": false
+    },
+    {
+      "id": 233,
+      "day": 6,
+      "eng": "manuscript",
+      "kor": "원고",
+      "isDone": false
+    },
+    {
+      "id": 234,
+      "day": 6,
+      "eng": "beneficial",
+      "kor": "유익한, 이로운",
+      "isDone": false
+    },
+    {
+      "id": 235,
+      "day": 6,
+      "eng": "upcoming",
+      "kor": "곧 있을, 다가오는",
+      "isDone": false
+    },
+    {
+      "id": 236,
+      "day": 6,
+      "eng": "lend",
+      "kor": "빌려주다",
+      "isDone": false
+    },
+    {
+      "id": 237,
+      "day": 6,
+      "eng": "current",
+      "kor": "현재의,; 현행의, 통용되는",
+      "isDone": false
+    },
+    {
+      "id": 238,
+      "day": 6,
+      "eng": "local",
+      "kor": "지방의, 고장의",
+      "isDone": false
+    },
+    {
+      "id": 239,
+      "day": 6,
+      "eng": "variety",
+      "kor": "다양성, 변화",
+      "isDone": false
+    },
+    {
+      "id": 240,
+      "day": 6,
+      "eng": "advocate",
+      "kor": "옹호자",
+      "isDone": false
+    },
+    {
+      "id": 241,
+      "day": 6,
+      "eng": "contributor",
+      "kor": "기고가, 공헌자",
+      "isDone": false
+    },
+    {
+      "id": 242,
+      "day": 6,
+      "eng": "defy",
+      "kor": "저항하다; (설명,묘사등이)거의 불가능하다",
+      "isDone": false
+    },
+    {
+      "id": 243,
+      "day": 6,
+      "eng": "fascinating",
+      "kor": "매혹적인, 황홀한",
+      "isDone": false
+    },
+    {
+      "id": 244,
+      "day": 6,
+      "eng": "showing",
+      "kor": "(영화, 연극의)상영; 전시",
+      "isDone": false
+    },
+    {
+      "id": 245,
+      "day": 7,
+      "eng": "survey",
+      "kor": "설문조사",
+      "isDone": false
+    },
+    {
+      "id": 246,
+      "day": 7,
+      "eng": "analysis",
+      "kor": "분석",
+      "isDone": false
+    },
+    {
+      "id": 247,
+      "day": 7,
+      "eng": "respondent",
+      "kor": "응답자",
+      "isDone": false
+    },
+    {
+      "id": 248,
+      "day": 7,
+      "eng": "competition",
+      "kor": "경쟁",
+      "isDone": false
+    },
+    {
+      "id": 249,
+      "day": 7,
+      "eng": "consistently",
+      "kor": "항상, 일관되게",
+      "isDone": false
+    },
+    {
+      "id": 250,
+      "day": 7,
+      "eng": "demand",
+      "kor": "수요, 요구하다",
+      "isDone": false
+    },
+    {
+      "id": 251,
+      "day": 7,
+      "eng": "do one's utmost",
+      "kor": "전력을 다하다",
+      "isDone": false
+    },
+    {
+      "id": 252,
+      "day": 7,
+      "eng": "expand",
+      "kor": "확장하다, 확대하다",
+      "isDone": false
+    },
+    {
+      "id": 253,
+      "day": 7,
+      "eng": "advanced",
+      "kor": "고급의; 진보한, 앞선",
+      "isDone": false
+    },
+    {
+      "id": 254,
+      "day": 7,
+      "eng": "postpone",
+      "kor": "연기하다, 뒤로 미루다",
+      "isDone": false
+    },
+    {
+      "id": 255,
+      "day": 7,
+      "eng": "additional",
+      "kor": "추가의, 부가적인",
+      "isDone": false
+    },
+    {
+      "id": 256,
+      "day": 7,
+      "eng": "appreciate",
+      "kor": "고맙게 생각하다; 높이 평가하다; 감상하다",
+      "isDone": false
+    },
+    {
+      "id": 257,
+      "day": 7,
+      "eng": "demonstration",
+      "kor": "설명; 드러냄, 시연",
+      "isDone": false
+    },
+    {
+      "id": 258,
+      "day": 7,
+      "eng": "buy",
+      "kor": "사다, 구입하다",
+      "isDone": false
+    },
+    {
+      "id": 259,
+      "day": 7,
+      "eng": "examine",
+      "kor": "조사하다",
+      "isDone": false
+    },
+    {
+      "id": 260,
+      "day": 7,
+      "eng": "effective",
+      "kor": "효과적인; (법률 등이)발표되는, 시행되는",
+      "isDone": false
+    },
+    {
+      "id": 261,
+      "day": 7,
+      "eng": "like",
+      "kor": "좋아하다",
+      "isDone": false
+    },
+    {
+      "id": 262,
+      "day": 7,
+      "eng": "especially",
+      "kor": "특히",
+      "isDone": false
+    },
+    {
+      "id": 263,
+      "day": 7,
+      "eng": "closely",
+      "kor": "면밀히, 엄밀히",
+      "isDone": false
+    },
+    {
+      "id": 264,
+      "day": 7,
+      "eng": "reserve",
+      "kor": "예약하다, 지정하다; 보존하다",
+      "isDone": false
+    },
+    {
+      "id": 265,
+      "day": 7,
+      "eng": "cooperate",
+      "kor": "협력하다, 협동하다",
+      "isDone": false
+    },
+    {
+      "id": 266,
+      "day": 7,
+      "eng": "very",
+      "kor": "매우, 대단히, 아주",
+      "isDone": false
+    },
+    {
+      "id": 267,
+      "day": 7,
+      "eng": "consecutive",
+      "kor": "연속적인",
+      "isDone": false
+    },
+    {
+      "id": 268,
+      "day": 7,
+      "eng": "expectation",
+      "kor": "예상, 기대",
+      "isDone": false
+    },
+    {
+      "id": 269,
+      "day": 7,
+      "eng": "publicize",
+      "kor": "공표하다; 광고하다, 선전하다",
+      "isDone": false
+    },
+    {
+      "id": 270,
+      "day": 7,
+      "eng": "raise",
+      "kor": "높이다, 올리다; (의문을)제기하다",
+      "isDone": false
+    },
+    {
+      "id": 271,
+      "day": 7,
+      "eng": "extremely",
+      "kor": "극도로, 대단히",
+      "isDone": false
+    },
+    {
+      "id": 272,
+      "day": 7,
+      "eng": "affect",
+      "kor": "~에 영향을 미치다, 불리하게 작용하다",
+      "isDone": false
+    },
+    {
+      "id": 273,
+      "day": 7,
+      "eng": "target",
+      "kor": "목표, 목표로 삼다",
+      "isDone": false
+    },
+    {
+      "id": 274,
+      "day": 7,
+      "eng": "campaign",
+      "kor": "운동, 캠페인",
+      "isDone": false
+    },
+    {
+      "id": 275,
+      "day": 7,
+      "eng": "probable",
+      "kor": "개연성이 높은, 유망한",
+      "isDone": false
+    },
+    {
+      "id": 276,
+      "day": 7,
+      "eng": "focus",
+      "kor": "집중시키다, 집중하다",
+      "isDone": false
+    },
+    {
+      "id": 277,
+      "day": 7,
+      "eng": "seasonal",
+      "kor": "계절의, 계절적인",
+      "isDone": false
+    },
+    {
+      "id": 278,
+      "day": 7,
+      "eng": "impact",
+      "kor": "영향, 충격",
+      "isDone": false
+    },
+    {
+      "id": 279,
+      "day": 7,
+      "eng": "comparison",
+      "kor": "비교",
+      "isDone": false
+    },
+    {
+      "id": 280,
+      "day": 7,
+      "eng": "gap",
+      "kor": "격차",
+      "isDone": false
+    },
+    {
+      "id": 281,
+      "day": 7,
+      "eng": "mounting",
+      "kor": "증가하는, 오르는",
+      "isDone": false
+    },
+    {
+      "id": 282,
+      "day": 7,
+      "eng": "reflective",
+      "kor": "반영하는",
+      "isDone": false
+    },
+    {
+      "id": 283,
+      "day": 8,
+      "eng": "advertisement",
+      "kor": "광고",
+      "isDone": false
+    },
+    {
+      "id": 284,
+      "day": 8,
+      "eng": "marginal",
+      "kor": "약간의; 주변의",
+      "isDone": false
+    },
+    {
+      "id": 285,
+      "day": 8,
+      "eng": "customer",
+      "kor": "고객",
+      "isDone": false
+    },
+    {
+      "id": 286,
+      "day": 8,
+      "eng": "influence",
+      "kor": "~에 영향을 주다, 영향",
+      "isDone": false
+    },
+    {
+      "id": 287,
+      "day": 8,
+      "eng": "instantly",
+      "kor": "즉각적으로, 즉시",
+      "isDone": false
+    },
+    {
+      "id": 288,
+      "day": 8,
+      "eng": "creative",
+      "kor": "창조적인, 독창적인",
+      "isDone": false
+    },
+    {
+      "id": 289,
+      "day": 8,
+      "eng": "aggressively",
+      "kor": "적극적으로",
+      "isDone": false
+    },
+    {
+      "id": 290,
+      "day": 8,
+      "eng": "aim",
+      "kor": "~을 겨누다, 목표, 목적",
+      "isDone": false
+    },
+    {
+      "id": 291,
+      "day": 8,
+      "eng": "strategy",
+      "kor": "전략",
+      "isDone": false
+    },
+    {
+      "id": 292,
+      "day": 8,
+      "eng": "indicate",
+      "kor": "보여주다, 나타내다",
+      "isDone": false
+    },
+    {
+      "id": 293,
+      "day": 8,
+      "eng": "attract",
+      "kor": "끌다, 유인하다",
+      "isDone": false
+    },
+    {
+      "id": 294,
+      "day": 8,
+      "eng": "experience",
+      "kor": "경험, 체험, 체험하다, 경험하다",
+      "isDone": false
+    },
+    {
+      "id": 295,
+      "day": 8,
+      "eng": "analyze",
+      "kor": "분석하다, 분석적으로 검토하다",
+      "isDone": false
+    },
+    {
+      "id": 296,
+      "day": 8,
+      "eng": "introduce",
+      "kor": "(신제품을)발표하다, 소개하다",
+      "isDone": false
+    },
+    {
+      "id": 297,
+      "day": 8,
+      "eng": "advise",
+      "kor": "조언해주다, 충고하다",
+      "isDone": false
+    },
+    {
+      "id": 298,
+      "day": 8,
+      "eng": "subscribe",
+      "kor": "구독하다",
+      "isDone": false
+    },
+    {
+      "id": 299,
+      "day": 8,
+      "eng": "absence",
+      "kor": "부재; 결근, 결석",
+      "isDone": false
+    },
+    {
+      "id": 300,
+      "day": 8,
+      "eng": "means",
+      "kor": "방법, 수단",
+      "isDone": false
+    },
+    {
+      "id": 301,
+      "day": 8,
+      "eng": "prefer",
+      "kor": "(다른 것보다)~을 더 좋아하다, 선호하다",
+      "isDone": false
+    },
+    {
+      "id": 302,
+      "day": 8,
+      "eng": "advantage",
+      "kor": "이점, 강점",
+      "isDone": false
+    },
+    {
+      "id": 303,
+      "day": 8,
+      "eng": "forward",
+      "kor": "앞으로, (물건, 정보를)보내다",
+      "isDone": false
+    },
+    {
+      "id": 304,
+      "day": 8,
+      "eng": "contemporary",
+      "kor": "동시대의; 현대의, 당대의",
+      "isDone": false
+    },
+    {
+      "id": 305,
+      "day": 8,
+      "eng": "discussion",
+      "kor": "토론, 토의",
+      "isDone": false
+    },
+    {
+      "id": 306,
+      "day": 8,
+      "eng": "initial",
+      "kor": "처음의, 최초의",
+      "isDone": false
+    },
+    {
+      "id": 307,
+      "day": 8,
+      "eng": "steadily",
+      "kor": "착실하게; 꾸준히",
+      "isDone": false
+    },
+    {
+      "id": 308,
+      "day": 8,
+      "eng": "necessarily",
+      "kor": "반드시",
+      "isDone": false
+    },
+    {
+      "id": 309,
+      "day": 8,
+      "eng": "resolve",
+      "kor": "(문제 등을)해결하다",
+      "isDone": false
+    },
+    {
+      "id": 310,
+      "day": 8,
+      "eng": "detect",
+      "kor": "간파하다, 탐지하다",
+      "isDone": false
+    },
+    {
+      "id": 311,
+      "day": 8,
+      "eng": "intensify",
+      "kor": "강화하다, 증대하다, 강렬하게 만들다.",
+      "isDone": false
+    },
+    {
+      "id": 312,
+      "day": 8,
+      "eng": "favorably",
+      "kor": "호의적으로; 순조롭게",
+      "isDone": false
+    },
+    {
+      "id": 313,
+      "day": 8,
+      "eng": "cover",
+      "kor": "포함하다; 지불하다; 덮다",
+      "isDone": false
+    },
+    {
+      "id": 314,
+      "day": 8,
+      "eng": "less",
+      "kor": "보다 적은, 덜한",
+      "isDone": false
+    },
+    {
+      "id": 315,
+      "day": 8,
+      "eng": "majority",
+      "kor": "대부분, 대다수",
+      "isDone": false
+    },
+    {
+      "id": 316,
+      "day": 8,
+      "eng": "adopt",
+      "kor": "채택하다",
+      "isDone": false
+    },
+    {
+      "id": 317,
+      "day": 8,
+      "eng": "largely",
+      "kor": "주로, 대부분",
+      "isDone": false
+    },
+    {
+      "id": 318,
+      "day": 8,
+      "eng": "disregard",
+      "kor": "소홀히 하다, 무시하다",
+      "isDone": false
+    },
+    {
+      "id": 319,
+      "day": 8,
+      "eng": "effort",
+      "kor": "노력",
+      "isDone": false
+    },
+    {
+      "id": 320,
+      "day": 8,
+      "eng": "incentive",
+      "kor": "혜택, 장려금",
+      "isDone": false
+    },
+    {
+      "id": 321,
+      "day": 8,
+      "eng": "need",
+      "kor": "필요, 요구, 욕구, ~할 필요가 있다.",
+      "isDone": false
+    },
+    {
+      "id": 322,
+      "day": 8,
+      "eng": "mastermind",
+      "kor": "(계획 등의)입안자, 지도자",
+      "isDone": false
+    },
+    {
+      "id": 323,
+      "day": 9,
+      "eng": "stagnant",
+      "kor": "침체된, 불경기의, (stagnance침체, 정체, 불황)",
+      "isDone": false
+    },
+    {
+      "id": 324,
+      "day": 9,
+      "eng": "dramatically",
+      "kor": "극적으로",
+      "isDone": false
+    },
+    {
+      "id": 325,
+      "day": 9,
+      "eng": "brisk",
+      "kor": "활발한, 호황의",
+      "isDone": false
+    },
+    {
+      "id": 326,
+      "day": 9,
+      "eng": "unstable",
+      "kor": "불안정한, 변하기 쉬운",
+      "isDone": false
+    },
+    {
+      "id": 327,
+      "day": 9,
+      "eng": "rapidly",
+      "kor": "급속히, 빨리",
+      "isDone": false
+    },
+    {
+      "id": 328,
+      "day": 9,
+      "eng": "soar",
+      "kor": "(물가 등이)폭등하다, 높이 치솟다",
+      "isDone": false
+    },
+    {
+      "id": 329,
+      "day": 9,
+      "eng": "assert",
+      "kor": "단언하다, 주장하다 (assertion 단언, 주장)",
+      "isDone": false
+    },
+    {
+      "id": 330,
+      "day": 9,
+      "eng": "boost",
+      "kor": "(경기를)부양시키다, 상승시키다",
+      "isDone": false
+    },
+    {
+      "id": 331,
+      "day": 9,
+      "eng": "analyst",
+      "kor": "분석가",
+      "isDone": false
+    },
+    {
+      "id": 332,
+      "day": 9,
+      "eng": "potential",
+      "kor": "잠재적인",
+      "isDone": false
+    },
+    {
+      "id": 333,
+      "day": 9,
+      "eng": "pleased",
+      "kor": "만족해하는, 기쁜",
+      "isDone": false
+    },
+    {
+      "id": 334,
+      "day": 9,
+      "eng": "remain",
+      "kor": "계속~한 상태이다; 아직 ~해야한다",
+      "isDone": false
+    },
+    {
+      "id": 335,
+      "day": 9,
+      "eng": "limited",
+      "kor": "제한된, 한정된",
+      "isDone": false
+    },
+    {
+      "id": 336,
+      "day": 9,
+      "eng": "costly",
+      "kor": "비용이 많이 드는, 손실이 큰",
+      "isDone": false
+    },
+    {
+      "id": 337,
+      "day": 9,
+      "eng": "particular",
+      "kor": "특정한, 독특한, 세심한 (partocularly 특히)",
+      "isDone": false
+    },
+    {
+      "id": 338,
+      "day": 9,
+      "eng": "drastic",
+      "kor": "과감한, 급격한",
+      "isDone": false
+    },
+    {
+      "id": 339,
+      "day": 9,
+      "eng": "evenly",
+      "kor": "고르게, 균등하게",
+      "isDone": false
+    },
+    {
+      "id": 340,
+      "day": 9,
+      "eng": "evidence",
+      "kor": "증거",
+      "isDone": false
+    },
+    {
+      "id": 341,
+      "day": 9,
+      "eng": "prospect",
+      "kor": "전망, 예상 (prospective 장래의, 미래의, 기대되는)",
+      "isDone": false
+    },
+    {
+      "id": 342,
+      "day": 9,
+      "eng": "lead",
+      "kor": "이글다, 지휘하다; (어떤 결과에)이르다",
+      "isDone": false
+    },
+    {
+      "id": 343,
+      "day": 9,
+      "eng": "fall",
+      "kor": "(값, 가치가)하락하다",
+      "isDone": false
+    },
+    {
+      "id": 344,
+      "day": 9,
+      "eng": "period",
+      "kor": "기간, 시기",
+      "isDone": false
+    },
+    {
+      "id": 345,
+      "day": 9,
+      "eng": "indicator",
+      "kor": "지표, 지수",
+      "isDone": false
+    },
+    {
+      "id": 346,
+      "day": 9,
+      "eng": "industry",
+      "kor": "산업",
+      "isDone": false
+    },
+    {
+      "id": 347,
+      "day": 9,
+      "eng": "likely",
+      "kor": "~할 것 같은",
+      "isDone": false
+    },
+    {
+      "id": 348,
+      "day": 9,
+      "eng": "boom",
+      "kor": "붐, 호황",
+      "isDone": false
+    },
+    {
+      "id": 349,
+      "day": 9,
+      "eng": "director",
+      "kor": "임원, 책임자",
+      "isDone": false
+    },
+    {
+      "id": 350,
+      "day": 9,
+      "eng": "substitute",
+      "kor": "대용품, 대신하다(substitution 대용, 대체)",
+      "isDone": false
+    },
+    {
+      "id": 351,
+      "day": 9,
+      "eng": "consequence",
+      "kor": "결과",
+      "isDone": false
+    },
+    {
+      "id": 352,
+      "day": 9,
+      "eng": "fairly",
+      "kor": "상당히, 꽤",
+      "isDone": false
+    },
+    {
+      "id": 353,
+      "day": 9,
+      "eng": "economical",
+      "kor": "경제적인, 절약되는",
+      "isDone": false
+    },
+    {
+      "id": 354,
+      "day": 9,
+      "eng": "thrive",
+      "kor": "번영하다, 성공하다",
+      "isDone": false
+    },
+    {
+      "id": 355,
+      "day": 9,
+      "eng": "implication",
+      "kor": "영향, 밀접한 관계 (implicate 관련시키다, 관련되었음을 나타내다)",
+      "isDone": false
+    },
+    {
+      "id": 356,
+      "day": 9,
+      "eng": "wane",
+      "kor": "감소, 감퇴",
+      "isDone": false
+    },
+    {
+      "id": 357,
+      "day": 9,
+      "eng": "prosperity",
+      "kor": "번영 (prosper 번영하다)",
+      "isDone": false
+    },
+    {
+      "id": 358,
+      "day": 9,
+      "eng": "depression",
+      "kor": "불황 (depress 하락시키다, 약하게하다)",
+      "isDone": false
+    },
+    {
+      "id": 359,
+      "day": 9,
+      "eng": "dwindle",
+      "kor": "줄어들다, 감소되다",
+      "isDone": false
+    },
+    {
+      "id": 360,
+      "day": 9,
+      "eng": "impede",
+      "kor": "저해하다, 방해하다",
+      "isDone": false
+    },
+    {
+      "id": 361,
+      "day": 9,
+      "eng": "promising",
+      "kor": "유망한, 전망이 좋은",
+      "isDone": false
+    },
+    {
+      "id": 362,
+      "day": 9,
+      "eng": "adversity",
+      "kor": "역경, 불운",
+      "isDone": false
+    },
+    {
+      "id": 363,
+      "day": 10,
+      "eng": "purchase",
+      "kor": "구매하다, 구매",
+      "isDone": false
+    },
+    {
+      "id": 364,
+      "day": 10,
+      "eng": "installment",
+      "kor": "할부",
+      "isDone": false
+    },
+    {
+      "id": 365,
+      "day": 10,
+      "eng": "affordable",
+      "kor": "(가격이)알맞은, 감당할 수 있는",
+      "isDone": false
+    },
+    {
+      "id": 366,
+      "day": 10,
+      "eng": "exactly",
+      "kor": "정확히",
+      "isDone": false
+    },
+    {
+      "id": 367,
+      "day": 10,
+      "eng": "auction",
+      "kor": "경매",
+      "isDone": false
+    },
+    {
+      "id": 368,
+      "day": 10,
+      "eng": "authentic",
+      "kor": "진정한, 진짜의, 진품의",
+      "isDone": false
+    },
+    {
+      "id": 369,
+      "day": 10,
+      "eng": "charge",
+      "kor": "요금,청구,금액;책임,의무\n~을 청구하다; (외상으로)달아놓다",
+      "isDone": false
+    },
+    {
+      "id": 370,
+      "day": 10,
+      "eng": "notice",
+      "kor": "통지, 공고",
+      "isDone": false
+    },
+    {
+      "id": 371,
+      "day": 10,
+      "eng": "experienced",
+      "kor": "경험이 있는, 노련한, 능숙한",
+      "isDone": false
+    },
+    {
+      "id": 372,
+      "day": 10,
+      "eng": "instruction",
+      "kor": "설명, 지시 (instruct 가르치다, 지시하다, instructor교사, 강사)",
+      "isDone": false
+    },
+    {
+      "id": 373,
+      "day": 10,
+      "eng": "expert",
+      "kor": "전문가, 전문가의, 전문적인",
+      "isDone": false
+    },
+    {
+      "id": 374,
+      "day": 10,
+      "eng": "warranty",
+      "kor": "(품질 등의)보증, 보증서",
+      "isDone": false
+    },
+    {
+      "id": 375,
+      "day": 10,
+      "eng": "refund",
+      "kor": "환불, 환불금",
+      "isDone": false
+    },
+    {
+      "id": 376,
+      "day": 10,
+      "eng": "subscriber",
+      "kor": "가입자, 구독자",
+      "isDone": false
+    },
+    {
+      "id": 377,
+      "day": 10,
+      "eng": "delivery",
+      "kor": "배달",
+      "isDone": false
+    },
+    {
+      "id": 378,
+      "day": 10,
+      "eng": "price",
+      "kor": "가격",
+      "isDone": false
+    },
+    {
+      "id": 379,
+      "day": 10,
+      "eng": "receipt",
+      "kor": "영수증",
+      "isDone": false
+    },
+    {
+      "id": 380,
+      "day": 10,
+      "eng": "offer",
+      "kor": "제공하다, 제공,오퍼",
+      "isDone": false
+    },
+    {
+      "id": 381,
+      "day": 10,
+      "eng": "carefully",
+      "kor": "주의깊게, 신중히",
+      "isDone": false
+    },
+    {
+      "id": 382,
+      "day": 10,
+      "eng": "benefit",
+      "kor": "혜택, 이익, 혜택을 보다, 이익을 얻다",
+      "isDone": false
+    },
+    {
+      "id": 383,
+      "day": 10,
+      "eng": "exclusively",
+      "kor": "오로지, 독점적으로",
+      "isDone": false
+    },
+    {
+      "id": 384,
+      "day": 10,
+      "eng": "description",
+      "kor": "(제품등의)설명, 해설",
+      "isDone": false
+    },
+    {
+      "id": 385,
+      "day": 10,
+      "eng": "relatively",
+      "kor": "상대적으로",
+      "isDone": false
+    },
+    {
+      "id": 386,
+      "day": 10,
+      "eng": "spare",
+      "kor": "아끼다, 할애하다, 예비의, 여분의",
+      "isDone": false
+    },
+    {
+      "id": 387,
+      "day": 10,
+      "eng": "preparation",
+      "kor": "준비, 대비",
+      "isDone": false
+    },
+    {
+      "id": 388,
+      "day": 10,
+      "eng": "area",
+      "kor": "지역, 구역",
+      "isDone": false
+    },
+    {
+      "id": 389,
+      "day": 10,
+      "eng": "clearance",
+      "kor": "정리, 없애기; 허가",
+      "isDone": false
+    },
+    {
+      "id": 390,
+      "day": 10,
+      "eng": "alter",
+      "kor": "(성질, 형상을)고치다, 바꾸다",
+      "isDone": false
+    },
+    {
+      "id": 391,
+      "day": 10,
+      "eng": "apply",
+      "kor": "적용하다; 지원하다",
+      "isDone": false
+    },
+    {
+      "id": 392,
+      "day": 10,
+      "eng": "mutually",
+      "kor": "서로, 상호 간에 (mutuality 상호관계, 상호의존)",
+      "isDone": false
+    },
+    {
+      "id": 393,
+      "day": 10,
+      "eng": "method",
+      "kor": "방식, 방법",
+      "isDone": false
+    },
+    {
+      "id": 394,
+      "day": 10,
+      "eng": "acceptable",
+      "kor": "용인되는, 받아들일 수 있는;\n훌륭한, 만족스러운",
+      "isDone": false
+    },
+    {
+      "id": 395,
+      "day": 10,
+      "eng": "desire",
+      "kor": "욕구, 갈망, 원하다, 바라다",
+      "isDone": false
+    },
+    {
+      "id": 396,
+      "day": 10,
+      "eng": "redeemable",
+      "kor": "(현금,상품과)교환할 수 있는, 환급할 수 있는( redeem 상환하다)",
+      "isDone": false
+    },
+    {
+      "id": 397,
+      "day": 10,
+      "eng": "officially",
+      "kor": "공식적으로",
+      "isDone": false
+    },
+    {
+      "id": 398,
+      "day": 10,
+      "eng": "consumption",
+      "kor": "소비(량), 소모 (consumptive 소모적인)",
+      "isDone": false
+    },
+    {
+      "id": 399,
+      "day": 10,
+      "eng": "qualify",
+      "kor": "~의 자격을 얻다",
+      "isDone": false
+    },
+    {
+      "id": 400,
+      "day": 10,
+      "eng": "fabric",
+      "kor": "섬유, 천",
+      "isDone": false
+    },
+    {
+      "id": 401,
+      "day": 10,
+      "eng": "valid",
+      "kor": "유효한",
+      "isDone": false
+    },
+    {
+      "id": 402,
+      "day": 10,
+      "eng": "vendor",
+      "kor": "노점상, 가판대; 판매업체",
+      "isDone": false
+    },
+    {
+      "id": 403,
+      "day": 11,
+      "eng": "research",
+      "kor": "연구, 조사",
+      "isDone": false
+    },
+    {
+      "id": 404,
+      "day": 11,
+      "eng": "devise",
+      "kor": "고안하다, 발명하다",
+      "isDone": false
+    },
+    {
+      "id": 405,
+      "day": 11,
+      "eng": "revolutionary",
+      "kor": "혁명적인",
+      "isDone": false
+    },
+    {
+      "id": 406,
+      "day": 11,
+      "eng": "innovative",
+      "kor": "혁신적인",
+      "isDone": false
+    },
+    {
+      "id": 407,
+      "day": 11,
+      "eng": "feature",
+      "kor": "특징, 특색, 특징으로 삼다, 특별히 포함하다",
+      "isDone": false
+    },
+    {
+      "id": 408,
+      "day": 11,
+      "eng": "inspiration",
+      "kor": "영감",
+      "isDone": false
+    },
+    {
+      "id": 409,
+      "day": 11,
+      "eng": "sufficiently",
+      "kor": "충분히(sufficient 충분한, 충분)",
+      "isDone": false
+    },
+    {
+      "id": 410,
+      "day": 11,
+      "eng": "patent",
+      "kor": "특허, 특허권, 특허품",
+      "isDone": false
+    },
+    {
+      "id": 411,
+      "day": 11,
+      "eng": "envision",
+      "kor": "(장래의 일 등을)계획하다, 상상하다",
+      "isDone": false
+    },
+    {
+      "id": 412,
+      "day": 11,
+      "eng": "extend",
+      "kor": "연장하다; (기간을)늘리다;\n(감사의 뜻을)말하다, 베풀다",
+      "isDone": false
+    },
+    {
+      "id": 413,
+      "day": 11,
+      "eng": "following",
+      "kor": "~후에, 다음의, 다음에 오는",
+      "isDone": false
+    },
+    {
+      "id": 414,
+      "day": 11,
+      "eng": "intend",
+      "kor": "~할 작정이다; 의도하다",
+      "isDone": false
+    },
+    {
+      "id": 415,
+      "day": 11,
+      "eng": "grant",
+      "kor": "(인정하여 정식으로)수여하다, 주다,\n(연구비, 장학금등의)보조금",
+      "isDone": false
+    },
+    {
+      "id": 416,
+      "day": 11,
+      "eng": "allow",
+      "kor": "~하게 하다, ~을 허락하다",
+      "isDone": false
+    },
+    {
+      "id": 417,
+      "day": 11,
+      "eng": "inspect",
+      "kor": "~을 검사하다, 조사하다",
+      "isDone": false
+    },
+    {
+      "id": 418,
+      "day": 11,
+      "eng": "improve",
+      "kor": "향상시키다, 개선하다",
+      "isDone": false
+    },
+    {
+      "id": 419,
+      "day": 11,
+      "eng": "increasingly",
+      "kor": "점점, 더욱 더",
+      "isDone": false
+    },
+    {
+      "id": 420,
+      "day": 11,
+      "eng": "invest",
+      "kor": "투자하다, 운용하다",
+      "isDone": false
+    },
+    {
+      "id": 421,
+      "day": 11,
+      "eng": "various",
+      "kor": "여러 가지의, 가지각색의",
+      "isDone": false
+    },
+    {
+      "id": 422,
+      "day": 11,
+      "eng": "upgrade",
+      "kor": "업그레이드, 개량형\n업그레이드하다, 개선하다",
+      "isDone": false
+    },
+    {
+      "id": 423,
+      "day": 11,
+      "eng": "manual",
+      "kor": "설명서, 안내서",
+      "isDone": false
+    },
+    {
+      "id": 424,
+      "day": 11,
+      "eng": "explore",
+      "kor": "조사하다, 탐구하다",
+      "isDone": false
+    },
+    {
+      "id": 425,
+      "day": 11,
+      "eng": "response",
+      "kor": "응답, 대답",
+      "isDone": false
+    },
+    {
+      "id": 426,
+      "day": 11,
+      "eng": "appearance",
+      "kor": "외관, 외모",
+      "isDone": false
+    },
+    {
+      "id": 427,
+      "day": 11,
+      "eng": "successful",
+      "kor": "성공적인, 성공한",
+      "isDone": false
+    },
+    {
+      "id": 428,
+      "day": 11,
+      "eng": "hold",
+      "kor": "~을 수용하다, ~을 담다;\n(회의 등을)개최하다, 열다",
+      "isDone": false
+    },
+    {
+      "id": 429,
+      "day": 11,
+      "eng": "advance",
+      "kor": "진보, 전진",
+      "isDone": false
+    },
+    {
+      "id": 430,
+      "day": 11,
+      "eng": "reliable",
+      "kor": "믿을 만한, 신뢰할 수 있는",
+      "isDone": false
+    },
+    {
+      "id": 431,
+      "day": 11,
+      "eng": "quality",
+      "kor": "품질, 질",
+      "isDone": false
+    },
+    {
+      "id": 432,
+      "day": 11,
+      "eng": "domestic",
+      "kor": "국내의, 국산의",
+      "isDone": false
+    },
+    {
+      "id": 433,
+      "day": 11,
+      "eng": "development",
+      "kor": "개발, 발전",
+      "isDone": false
+    },
+    {
+      "id": 434,
+      "day": 11,
+      "eng": "availability",
+      "kor": "(입수)가능성, 유효성, 유용성",
+      "isDone": false
+    },
+    {
+      "id": 435,
+      "day": 11,
+      "eng": "update",
+      "kor": "갱신, 개정, 갱신하다,\n최신의 것으로 하다",
+      "isDone": false
+    },
+    {
+      "id": 436,
+      "day": 11,
+      "eng": "accurate",
+      "kor": "정확한",
+      "isDone": false
+    },
+    {
+      "id": 437,
+      "day": 11,
+      "eng": "complicate",
+      "kor": "복잡한(complicatedly복잡하게)",
+      "isDone": false
+    },
+    {
+      "id": 438,
+      "day": 11,
+      "eng": "accomplished",
+      "kor": "숙련된, 노련한",
+      "isDone": false
+    },
+    {
+      "id": 439,
+      "day": 11,
+      "eng": "inquiry",
+      "kor": "문의, 질문",
+      "isDone": false
+    },
+    {
+      "id": 440,
+      "day": 11,
+      "eng": "indication",
+      "kor": "징후, 조짐",
+      "isDone": false
+    },
+    {
+      "id": 441,
+      "day": 11,
+      "eng": "manufacturer",
+      "kor": "제조회사, 제조업자",
+      "isDone": false
+    },
+    {
+      "id": 442,
+      "day": 11,
+      "eng": "compatible",
+      "kor": "호환되는, 양립할 수 있는(compatibility 양립성, 호환성)",
+      "isDone": false
+    },
+    {
+      "id": 443,
+      "day": 11,
+      "eng": "superior",
+      "kor": "우수한, 상급의",
+      "isDone": false
+    },
+    {
+      "id": 444,
+      "day": 11,
+      "eng": "absolute",
+      "kor": "완전한, 완전무결한",
+      "isDone": false
+    },
+    {
+      "id": 445,
+      "day": 11,
+      "eng": "broaden",
+      "kor": "넓히다",
+      "isDone": false
+    },
+    {
+      "id": 446,
+      "day": 11,
+      "eng": "corrosion",
+      "kor": "부식",
+      "isDone": false
+    },
+    {
+      "id": 447,
+      "day": 12,
+      "eng": "epuipment",
+      "kor": "장비, 설비",
+      "isDone": false
+    },
+    {
+      "id": 448,
+      "day": 12,
+      "eng": "automate",
+      "kor": "자동화하다",
+      "isDone": false
+    },
+    {
+      "id": 449,
+      "day": 12,
+      "eng": "specification",
+      "kor": "명세서, 설명서, 사양",
+      "isDone": false
+    },
+    {
+      "id": 450,
+      "day": 12,
+      "eng": "properly",
+      "kor": "제대로, 정확하게",
+      "isDone": false
+    },
+    {
+      "id": 451,
+      "day": 12,
+      "eng": "safety",
+      "kor": "안전",
+      "isDone": false
+    },
+    {
+      "id": 452,
+      "day": 12,
+      "eng": "precaution",
+      "kor": "예방조치, 예방책",
+      "isDone": false
+    },
+    {
+      "id": 453,
+      "day": 12,
+      "eng": "operate",
+      "kor": "(기계 등이)작동하다, 움직이다",
+      "isDone": false
+    },
+    {
+      "id": 454,
+      "day": 12,
+      "eng": "processing",
+      "kor": "가공, 처리(process 과정, 진행, 처리하다)",
+      "isDone": false
+    },
+    {
+      "id": 455,
+      "day": 12,
+      "eng": "capacity",
+      "kor": "용량, 수용력; 역할",
+      "isDone": false
+    },
+    {
+      "id": 456,
+      "day": 12,
+      "eng": "assemble",
+      "kor": "(부품,기계 등을)조립하다;\n(사람을)모으다",
+      "isDone": false
+    },
+    {
+      "id": 457,
+      "day": 12,
+      "eng": "utilize",
+      "kor": "이용하다, 활용하다",
+      "isDone": false
+    },
+    {
+      "id": 458,
+      "day": 12,
+      "eng": "place",
+      "kor": "~을-한 상태에 두다;\n(지시,주문,신청등을)하다",
+      "isDone": false
+    },
+    {
+      "id": 459,
+      "day": 12,
+      "eng": "fill",
+      "kor": "~을 채우다; (주문대로)이행하다",
+      "isDone": false
+    },
+    {
+      "id": 460,
+      "day": 12,
+      "eng": "manufacturing",
+      "kor": "제조(업)의",
+      "isDone": false
+    },
+    {
+      "id": 461,
+      "day": 12,
+      "eng": "renovate",
+      "kor": "(낡은 건물, 가구등을)개조하다,\n수리하다, 보수하다",
+      "isDone": false
+    },
+    {
+      "id": 462,
+      "day": 12,
+      "eng": "decision",
+      "kor": "결정, 판단",
+      "isDone": false
+    },
+    {
+      "id": 463,
+      "day": 12,
+      "eng": "material",
+      "kor": "재료, 물질",
+      "isDone": false
+    },
+    {
+      "id": 464,
+      "day": 12,
+      "eng": "success",
+      "kor": "성과, 성공",
+      "isDone": false
+    },
+    {
+      "id": 465,
+      "day": 12,
+      "eng": "attribute",
+      "kor": "(원인을)~의 덕분으로 돌리다",
+      "isDone": false
+    },
+    {
+      "id": 466,
+      "day": 12,
+      "eng": "efficiency",
+      "kor": "효율, 능률",
+      "isDone": false
+    },
+    {
+      "id": 467,
+      "day": 12,
+      "eng": "limit",
+      "kor": "한계, 제한",
+      "isDone": false
+    },
+    {
+      "id": 468,
+      "day": 12,
+      "eng": "tailored",
+      "kor": "맞춤의, 주문에 따라 맞춘",
+      "isDone": false
+    },
+    {
+      "id": 469,
+      "day": 12,
+      "eng": "component",
+      "kor": "부품, (구성)요소",
+      "isDone": false
+    },
+    {
+      "id": 470,
+      "day": 12,
+      "eng": "capable",
+      "kor": "~을 할 수 있는, ~할 능력이 있는",
+      "isDone": false
+    },
+    {
+      "id": 471,
+      "day": 12,
+      "eng": "economize",
+      "kor": "절약하다, 아끼다",
+      "isDone": false
+    },
+    {
+      "id": 472,
+      "day": 12,
+      "eng": "flexible",
+      "kor": "융통성 있는; 유연한, 잘 구부러지는",
+      "isDone": false
+    },
+    {
+      "id": 473,
+      "day": 12,
+      "eng": "comparable",
+      "kor": "필적하는, 비교되는",
+      "isDone": false
+    },
+    {
+      "id": 474,
+      "day": 12,
+      "eng": "produce",
+      "kor": "생산하다",
+      "isDone": false
+    },
+    {
+      "id": 475,
+      "day": 12,
+      "eng": "respectively",
+      "kor": "각각, 따로(respective 각각의)",
+      "isDone": false
+    },
+    {
+      "id": 476,
+      "day": 12,
+      "eng": "device",
+      "kor": "장치",
+      "isDone": false
+    },
+    {
+      "id": 477,
+      "day": 12,
+      "eng": "trim",
+      "kor": "(깍아)다듬다, 없애다; 삭감하다",
+      "isDone": false
+    },
+    {
+      "id": 478,
+      "day": 12,
+      "eng": "launch",
+      "kor": "(신제품을)출시하다",
+      "isDone": false
+    },
+    {
+      "id": 479,
+      "day": 12,
+      "eng": "separately",
+      "kor": "개별적으로, 따로따로",
+      "isDone": false
+    },
+    {
+      "id": 480,
+      "day": 12,
+      "eng": "expiration",
+      "kor": "(기간,임기 등의)만료, 만기",
+      "isDone": false
+    },
+    {
+      "id": 481,
+      "day": 12,
+      "eng": "maneuver",
+      "kor": "이동시키다, 움직이다",
+      "isDone": false
+    },
+    {
+      "id": 482,
+      "day": 12,
+      "eng": "coming",
+      "kor": "다가오는",
+      "isDone": false
+    },
+    {
+      "id": 483,
+      "day": 12,
+      "eng": "damaged",
+      "kor": "손상된, 손해를 입은",
+      "isDone": false
+    },
+    {
+      "id": 484,
+      "day": 12,
+      "eng": "prevent",
+      "kor": "~을 막다, ~을 예방하다",
+      "isDone": false
+    },
+    {
+      "id": 485,
+      "day": 12,
+      "eng": "power",
+      "kor": "전력, 전기",
+      "isDone": false
+    },
+    {
+      "id": 486,
+      "day": 12,
+      "eng": "chemical",
+      "kor": "화학제품",
+      "isDone": false
+    },
+    {
+      "id": 487,
+      "day": 13,
+      "eng": "complaint",
+      "kor": "불평",
+      "isDone": false
+    },
+    {
+      "id": 488,
+      "day": 13,
+      "eng": "deal",
+      "kor": "처리하다; 거래하다; 분배하다",
+      "isDone": false
+    },
+    {
+      "id": 489,
+      "day": 13,
+      "eng": "argumentative",
+      "kor": "논쟁적인, 논쟁을 좋아하는",
+      "isDone": false
+    },
+    {
+      "id": 490,
+      "day": 13,
+      "eng": "appropriately",
+      "kor": "적절하게(appropriate 적합한)",
+      "isDone": false
+    },
+    {
+      "id": 491,
+      "day": 13,
+      "eng": "respond",
+      "kor": "응답하다",
+      "isDone": false
+    },
+    {
+      "id": 492,
+      "day": 13,
+      "eng": "infuriate",
+      "kor": "화나게하다, 격분시키다",
+      "isDone": false
+    },
+    {
+      "id": 493,
+      "day": 13,
+      "eng": "curteous",
+      "kor": "예의바른",
+      "isDone": false
+    },
+    {
+      "id": 494,
+      "day": 13,
+      "eng": "satisfaction",
+      "kor": "만족",
+      "isDone": false
+    },
+    {
+      "id": 495,
+      "day": 13,
+      "eng": "inconvenience",
+      "kor": "불편, ~에게 불편을 느끼게 하다",
+      "isDone": false
+    },
+    {
+      "id": 496,
+      "day": 13,
+      "eng": "complete",
+      "kor": "완료하다, 완성하다, 완료된, 완성된",
+      "isDone": false
+    },
+    {
+      "id": 497,
+      "day": 13,
+      "eng": "specific",
+      "kor": "구체적인, 명확한",
+      "isDone": false
+    },
+    {
+      "id": 498,
+      "day": 13,
+      "eng": "return",
+      "kor": "반환하다, 반송하다",
+      "isDone": false
+    },
+    {
+      "id": 499,
+      "day": 13,
+      "eng": "replace",
+      "kor": "~을 교체하다, 대체하다",
+      "isDone": false
+    },
+    {
+      "id": 500,
+      "day": 13,
+      "eng": "presentation",
+      "kor": "발표",
+      "isDone": false
+    },
+    {
+      "id": 501,
+      "day": 13,
+      "eng": "evaluation",
+      "kor": "평가",
+      "isDone": false
+    },
+    {
+      "id": 502,
+      "day": 13,
+      "eng": "confident",
+      "kor": "자신 있는",
+      "isDone": false
+    },
+    {
+      "id": 503,
+      "day": 13,
+      "eng": "cause",
+      "kor": "~을 야기하다, ~의 원인이 되다\n원인",
+      "isDone": false
+    },
+    {
+      "id": 504,
+      "day": 13,
+      "eng": "commentary",
+      "kor": "해설, 설명(comment 해설하다,논평, 주석을달다)",
+      "isDone": false
+    },
+    {
+      "id": 505,
+      "day": 13,
+      "eng": "notification",
+      "kor": "통지",
+      "isDone": false
+    },
+    {
+      "id": 506,
+      "day": 13,
+      "eng": "apologize",
+      "kor": "사과하다",
+      "isDone": false
+    },
+    {
+      "id": 507,
+      "day": 13,
+      "eng": "interact",
+      "kor": "소통하다, 교류하다; 상호작용을 하다",
+      "isDone": false
+    },
+    {
+      "id": 508,
+      "day": 13,
+      "eng": "certain",
+      "kor": "확신하는, 확실한; 특정한",
+      "isDone": false
+    },
+    {
+      "id": 509,
+      "day": 13,
+      "eng": "commitment",
+      "kor": "헌신, 전념",
+      "isDone": false
+    },
+    {
+      "id": 510,
+      "day": 13,
+      "eng": "applaud",
+      "kor": "~에게 박수를 보내다; 칭찬하다",
+      "isDone": false
+    },
+    {
+      "id": 511,
+      "day": 13,
+      "eng": "biography",
+      "kor": "약력, 전기",
+      "isDone": false
+    },
+    {
+      "id": 512,
+      "day": 13,
+      "eng": "critical",
+      "kor": "비판적인; 중요한; 위기의",
+      "isDone": false
+    },
+    {
+      "id": 513,
+      "day": 13,
+      "eng": "depend on",
+      "kor": "~에 달려 있다, ~에게 의존하다",
+      "isDone": false
+    },
+    {
+      "id": 514,
+      "day": 13,
+      "eng": "combine",
+      "kor": "결합시키다",
+      "isDone": false
+    },
+    {
+      "id": 515,
+      "day": 13,
+      "eng": "priority",
+      "kor": "우선권, 우선사항",
+      "isDone": false
+    },
+    {
+      "id": 516,
+      "day": 13,
+      "eng": "observe",
+      "kor": "관찰하다, 주시하다;\n(규칙 등을)준수하다, 지키다",
+      "isDone": false
+    },
+    {
+      "id": 517,
+      "day": 13,
+      "eng": "defective",
+      "kor": "결함이 있는",
+      "isDone": false
+    },
+    {
+      "id": 518,
+      "day": 13,
+      "eng": "reflect",
+      "kor": "반영하다, 나타내다",
+      "isDone": false
+    },
+    {
+      "id": 519,
+      "day": 13,
+      "eng": "attitude",
+      "kor": "태도, 마음가짐",
+      "isDone": false
+    },
+    {
+      "id": 520,
+      "day": 13,
+      "eng": "disappoint",
+      "kor": "실망시키다",
+      "isDone": false
+    },
+    {
+      "id": 521,
+      "day": 13,
+      "eng": "inquire",
+      "kor": "문의하다, 질문하다",
+      "isDone": false
+    },
+    {
+      "id": 522,
+      "day": 13,
+      "eng": "insert",
+      "kor": "삽입하다",
+      "isDone": false
+    },
+    {
+      "id": 523,
+      "day": 13,
+      "eng": "disclose",
+      "kor": "공개하다, 드러내다",
+      "isDone": false
+    },
+    {
+      "id": 524,
+      "day": 13,
+      "eng": "guarantee",
+      "kor": "보장하다, 보장",
+      "isDone": false
+    },
+    {
+      "id": 525,
+      "day": 13,
+      "eng": "politely",
+      "kor": "공손하게, 예의바르게",
+      "isDone": false
+    },
+    {
+      "id": 526,
+      "day": 13,
+      "eng": "seriously",
+      "kor": "진지하게",
+      "isDone": false
+    },
+    {
+      "id": 527,
+      "day": 14,
+      "eng": "international",
+      "kor": "국제적인",
+      "isDone": false
+    },
+    {
+      "id": 528,
+      "day": 14,
+      "eng": "attraction",
+      "kor": "관광 명소",
+      "isDone": false
+    },
+    {
+      "id": 529,
+      "day": 14,
+      "eng": "itinerary",
+      "kor": "여행 일정",
+      "isDone": false
+    },
+    {
+      "id": 530,
+      "day": 14,
+      "eng": "exotic",
+      "kor": "이국적인, 매혹적인",
+      "isDone": false
+    },
+    {
+      "id": 531,
+      "day": 14,
+      "eng": "diverse",
+      "kor": "다양한",
+      "isDone": false
+    },
+    {
+      "id": 532,
+      "day": 14,
+      "eng": "superb",
+      "kor": "최고의, 뛰어난",
+      "isDone": false
+    },
+    {
+      "id": 533,
+      "day": 14,
+      "eng": "baggage",
+      "kor": "수화물",
+      "isDone": false
+    },
+    {
+      "id": 534,
+      "day": 14,
+      "eng": "destination",
+      "kor": "목적지",
+      "isDone": false
+    },
+    {
+      "id": 535,
+      "day": 14,
+      "eng": "missing",
+      "kor": "분실된, 없어진",
+      "isDone": false
+    },
+    {
+      "id": 536,
+      "day": 14,
+      "eng": "locate",
+      "kor": "(~의 위치를)찾아내다;\n~을 위치시키다",
+      "isDone": false
+    },
+    {
+      "id": 537,
+      "day": 14,
+      "eng": "approximately",
+      "kor": "대략",
+      "isDone": false
+    },
+    {
+      "id": 538,
+      "day": 14,
+      "eng": "duty",
+      "kor": "관세,세금; 직무,의무",
+      "isDone": false
+    },
+    {
+      "id": 539,
+      "day": 14,
+      "eng": "process",
+      "kor": "과정, 처리하다",
+      "isDone": false
+    },
+    {
+      "id": 540,
+      "day": 14,
+      "eng": "board",
+      "kor": "탑승하다, 이사회",
+      "isDone": false
+    },
+    {
+      "id": 541,
+      "day": 14,
+      "eng": "comfortable",
+      "kor": "편안한",
+      "isDone": false
+    },
+    {
+      "id": 542,
+      "day": 14,
+      "eng": "declare",
+      "kor": "(세관에서)신고하다",
+      "isDone": false
+    },
+    {
+      "id": 543,
+      "day": 14,
+      "eng": "specify",
+      "kor": "명시하다 (specification 열거, 명시, 명세서)",
+      "isDone": false
+    },
+    {
+      "id": 544,
+      "day": 14,
+      "eng": "depart",
+      "kor": "출발하다",
+      "isDone": false
+    },
+    {
+      "id": 545,
+      "day": 14,
+      "eng": "emergency",
+      "kor": "비상시, 비상 사태",
+      "isDone": false
+    },
+    {
+      "id": 546,
+      "day": 14,
+      "eng": "passenger",
+      "kor": "승객",
+      "isDone": false
+    },
+    {
+      "id": 547,
+      "day": 14,
+      "eng": "outgoing",
+      "kor": "(장소를)출발하는, 떠나는;\n(지위를)떠나는",
+      "isDone": false
+    },
+    {
+      "id": 548,
+      "day": 14,
+      "eng": "tighly",
+      "kor": "단단히, 꽉",
+      "isDone": false
+    },
+    {
+      "id": 549,
+      "day": 14,
+      "eng": "tour",
+      "kor": "(공장,시설 등의)견학, 짧은 여행",
+      "isDone": false
+    },
+    {
+      "id": 550,
+      "day": 14,
+      "eng": "carrier",
+      "kor": "항공사, 수송기, 수송 회사",
+      "isDone": false
+    },
+    {
+      "id": 551,
+      "day": 14,
+      "eng": "customarily",
+      "kor": "관례상, 습관적으로",
+      "isDone": false
+    },
+    {
+      "id": 552,
+      "day": 14,
+      "eng": "confuse",
+      "kor": "혼란시키다 (refuse 거절하다, 거부하다)",
+      "isDone": false
+    },
+    {
+      "id": 553,
+      "day": 14,
+      "eng": "arrive",
+      "kor": "도착하다",
+      "isDone": false
+    },
+    {
+      "id": 554,
+      "day": 14,
+      "eng": "brochure",
+      "kor": "(홍보용)소책자, 브로셔",
+      "isDone": false
+    },
+    {
+      "id": 555,
+      "day": 14,
+      "eng": "involve",
+      "kor": "수반하다, 포함하다; 참여시키다",
+      "isDone": false
+    },
+    {
+      "id": 556,
+      "day": 14,
+      "eng": "ship",
+      "kor": "(배나 다른 운송 수단으로)운송하다, 수송하다, 선박, 배",
+      "isDone": false
+    },
+    {
+      "id": 557,
+      "day": 14,
+      "eng": "suitcase",
+      "kor": "여행가방",
+      "isDone": false
+    },
+    {
+      "id": 558,
+      "day": 14,
+      "eng": "unavailable",
+      "kor": "이용할 수 없는, 구할 수 없는",
+      "isDone": false
+    },
+    {
+      "id": 559,
+      "day": 14,
+      "eng": "fill out/in",
+      "kor": "(서류에)기입하다, 적어 넣다",
+      "isDone": false
+    },
+    {
+      "id": 560,
+      "day": 14,
+      "eng": "customs",
+      "kor": "세관",
+      "isDone": false
+    },
+    {
+      "id": 561,
+      "day": 14,
+      "eng": "away",
+      "kor": "떨어져서",
+      "isDone": false
+    },
+    {
+      "id": 562,
+      "day": 14,
+      "eng": "dramatic",
+      "kor": "멋진, 극적인; 급격한",
+      "isDone": false
+    },
+    {
+      "id": 563,
+      "day": 14,
+      "eng": "hospitality",
+      "kor": "환대, 친절",
+      "isDone": false
+    },
+    {
+      "id": 564,
+      "day": 14,
+      "eng": "indulge",
+      "kor": "빠지다, 탐닉하다",
+      "isDone": false
+    },
+    {
+      "id": 565,
+      "day": 14,
+      "eng": "proximity",
+      "kor": "가까움, 근접함",
+      "isDone": false
+    },
+    {
+      "id": 566,
+      "day": 14,
+      "eng": "seating",
+      "kor": "(집합적)좌석 설비; 좌석 배열",
+      "isDone": false
+    },
+    {
+      "id": 567,
+      "day": 14,
+      "eng": "unlimited",
+      "kor": "무제한의",
+      "isDone": false
+    },
+    {
+      "day": "3",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 568
+    },
+    {
+      "day": "2",
+      "eng": "mouse",
+      "kor": "쥐",
+      "isDone": false,
+      "id": 569
+    }
+  ]
+}
